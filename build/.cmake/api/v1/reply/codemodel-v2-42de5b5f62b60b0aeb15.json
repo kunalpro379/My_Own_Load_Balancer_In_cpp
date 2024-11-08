@@ -1,0 +1,166 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "client",
+					"jsonFile" : "directory-client-Debug-3c37cf1077c78f229df7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "client",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "loadbalancer",
+					"jsonFile" : "directory-loadbalancer-Debug-c8ea5294b10f7e2b6222.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "loadbalancer"
+				},
+				{
+					"build" : "workerPool",
+					"jsonFile" : "directory-workerPool-Debug-021cc6be8759e4d4fb85.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "workerPool"
+				},
+				{
+					"build" : "processing",
+					"jsonFile" : "directory-processing-Debug-360bff2c45225a161bdc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "processing"
+				},
+				{
+					"build" : "response",
+					"jsonFile" : "directory-response-Debug-45b4f99515f558fcae07.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "response"
+				},
+				{
+					"build" : "monitoring",
+					"jsonFile" : "directory-monitoring-Debug-a7f53c991c351439d1bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "monitoring"
+				},
+				{
+					"build" : "utils",
+					"jsonFile" : "directory-utils-Debug-bb33f781d987d5385f78.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "utils"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "LoadBalancerSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LoadBalancerSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoadBalancerSystem-Debug-b122991103c3f0b7aedf.json",
+					"name" : "LoadBalancerSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "client::@b0c487aac068df482bf0",
+					"jsonFile" : "target-client-Debug-b12305df8a03f83c1e88.json",
+					"name" : "client",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch/build",
+		"source" : "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

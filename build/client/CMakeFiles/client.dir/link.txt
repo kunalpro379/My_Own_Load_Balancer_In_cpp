@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libclient.a CMakeFiles/client.dir/RateLimiter.cpp.obj CMakeFiles/client.dir/ClientRequestHandler.cpp.obj
+C:\MinGW\bin\ranlib.exe libclient.a

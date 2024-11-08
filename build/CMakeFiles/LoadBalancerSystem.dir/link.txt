@@ -1,0 +1,3 @@
+C:\cmake-3.28.1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\LoadBalancerSystem.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\LoadBalancerSystem.dir/objects.a @CMakeFiles\LoadBalancerSystem.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\LoadBalancerSystem.dir/objects.a -Wl,--no-whole-archive -o LoadBalancerSystem.exe -Wl,--out-implib,libLoadBalancerSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LoadBalancerSystem.dir\linkLibs.rsp

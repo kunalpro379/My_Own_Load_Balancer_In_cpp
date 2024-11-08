@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/LoadBalancerSystem.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\LoadBalancerSystem.dir\\src\\main.cpp.obj -c \"C:\\Users\\kunal\\OneDrive\\CODE FOR LIFE\\BuildFromScratch\\LoadBalancerFromScratch\\src\\main.cpp\"",
+  "file": "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch/src/main.cpp",
+  "output": "CMakeFiles/LoadBalancerSystem.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch/build/client",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/client.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\client.dir\\RateLimiter.cpp.obj -c \"C:\\Users\\kunal\\OneDrive\\CODE FOR LIFE\\BuildFromScratch\\LoadBalancerFromScratch\\client\\RateLimiter.cpp\"",
+  "file": "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch/client/RateLimiter.cpp",
+  "output": "client/CMakeFiles/client.dir/RateLimiter.cpp.obj"
+},
+{
+  "directory": "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch/build/client",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/client.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\client.dir\\ClientRequestHandler.cpp.obj -c \"C:\\Users\\kunal\\OneDrive\\CODE FOR LIFE\\BuildFromScratch\\LoadBalancerFromScratch\\client\\ClientRequestHandler.cpp\"",
+  "file": "C:/Users/kunal/OneDrive/CODE FOR LIFE/BuildFromScratch/LoadBalancerFromScratch/client/ClientRequestHandler.cpp",
+  "output": "client/CMakeFiles/client.dir/ClientRequestHandler.cpp.obj"
+}
+]
